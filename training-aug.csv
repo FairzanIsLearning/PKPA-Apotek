@@ -1,0 +1,898 @@
+No.,Kode Obat,Nama Obat,Indikasi,Komposisi,Populasi,Frekuensi,Jumlah Terjual,Satuan,Total Nominal,Persentase,Persentase Kumulatif,Kategori Pareto,Jumlah Pengadaan,Harga Beli
+1,0000772,Acetylcysteine Cap 200 mg,BD,Acetylcysteine,General,14,160,KAPSUL,"242.884,65","0,09%","64,67%",Pareto A,"-8,16","1.000,00"
+2,ACT04,Actifed + Cough 60 ml MERAH,BK - Flu,Triprolidine HCl - Pseudoephedrine HCl - Dextromethrorphan HBr,General,17,17,Botol,"1.124.768,55","0,40%","19,20%",Pareto A,"3,45","50.000,00"
+3,ACT02,Actifed + Exp 60 ml HIJAU,BD - Flu,Triprolidine HCl - Pseudoephedrine HCl - Guaiphenesin,General,25,26,Botol,"1.706.578,38","0,61%","8,49%",Pareto A,"19,16","50.000,00"
+4,ACTK01,Actifed 60 ml KUNING,Flu,Triprolidine HCl - Pseudoephedrine HCl,General,4,4,Botol,"264.468,60","0,09%","61,96%",Pareto A,"-0,13","49.918,00"
+5,ALCO1,Alco Oral Drops 15 ml,Flu,Pseudoephedrine HCl,Pediatric,5,5,Botol,"566.671,65","0,20%","38,87%",Pareto A,"0,84","85.500,00"
+6,ALCO3,Alco Plus 100 ml,Flu,Pseudoephedrine - Brompheniramine Maleat,General,4,4,Botol,"323.400,72","0,11%","56,15%",Pareto A,"-0,13","61.000,00"
+7,ALLER2,Allerin Exp 120,BD - Flu,Diphenhydramine HCl - Guaifenesin - Sodium Citrate - Pseudoephedrine HCl ,General,3,3,Botol,"74.245,68","0,03%","90,59%",Pareto B,"-0,10","18.770,00"
+8,ALLER1,Allerin Exp 60,BD - Flu,Diphenhydramine HCl - Guaifenesin - Sodium Citrate - Pseudoephedrine HCl ,General,1,1,Botol,"13.670,76","0,00%","99,65%",Pareto C,"-1,03","10.238,00"
+9,ALPA,Alpara/10,BD - Flu - Demam,Paracetamol - Phenylpropanolamine HCl - Chlorpheniramine maleate - Dextromethorphan HBr,General,21,34,Strip,"331.014,21","0,12%","54,99%",Pareto A,"6,90","5.933,33"
+10,AMBROX,Ambroxol 15mg/5ml Elixir 60ml,BD,Ambroxol,General,11,13,Botol,"83.265,54","0,03%","88,52%",Pareto B,"3,58","3.369,00"
+11,AMBROX1,Ambroxol 30mg/5ml Elixir 60ml,BD,Ambroxol,General,5,5,Botol,"69.825,66","0,02%","91,41%",Pareto C,"1,84","9.000,00"
+12,AMBRX01,AMBROXOL 30MG/Strip,BD,Ambroxol,,33,41,Strip,"164.381,01","0,06%","75,11%",Pareto B,"22,05","1.920,00"
+13,ANAC1,Anacetine 60 ml,BD - Flu - Demam,Paracetamol - Guaifenesin - Chlorpheniramine Maleate,Pediatric,11,11,Botol,"140.421,66","0,05%","78,84%",Pareto B,"5,65","9.590,00"
+14,ANA1,Anakonidin 30 ml,BD - BK - Flu,Dextromethorphan HBr - Guaifenesin - Pseudoephedrine HCl - Chlorpheniramine maleate,Pediatric,3,3,Botol,"25.189,23","0,01%","98,44%",Pareto C,"-3,10","6.100,00"
+15,ANA2,Anakonidin 60 ml,BD - BK - Flu,Dextromethorphan HBr - Guaifenesin - Pseudoephedrine HCl - Chlorpheniramine maleate,Pediatric,12,12,Botol,"164.606,34","0,06%","75,05%",Pareto B,"7,61","9.990,00"
+16,0000530,Anakonidin OBH 30 ml,BD - Flu - Demam,Paracetamol - Succus Liquiritiae - Ammonium Chloride - Pseudoephedrine HCl - Chlorpheniramine maleate,Pediatric,3,3,Botol,"26.867,55","0,01%","98,28%",Pareto C,"-2,10","6.650,00"
+17,0000900,Anakonidin OBH 60 ml,BD - Flu - Demam,Paracetamol - Succus Liquiritiae - Ammonium Chloride - Pseudoephedrine HCl - Chlorpheniramine maleate,Pediatric,3,3,Botol,"43.270,02","0,02%","96,03%",Pareto C,"-3,10","10.890,00"
+18,BABY,Baby cough 60 UNI,BD - Flu,Paracetamol - Guaifenesin - Chlorpheniramine maleate,Pediatric,24,26,Botol,"179.740,08","0,06%","72,47%",Pareto B,"14,16","4.636,00"
+19,BECEF5,BECEFORT,Vitamin,Vitamin B1 - Riboflavin (Vit B2) - Pyridoxine (Vit B6) HCl - Cyanocobalamin (Vit B12) - Calcium Pantotenate - Nicotinamide (Vit B3) - Vit C - Tocopherol (Vit E),Adult,4,60,KAPSUL,"111.888,00","0,04%","83,03%",Pareto B,"-71,94","1.407,66"
+20,BIOL4,Biolysin Kids Blackcurrant Botol,Vitamin,Vitamin A - Vitamin B1 - Vitamin B2 - Vitamin B6 - Vitamin B12 - Vitamin C - Vitamin D3 - Vitamin E - Niacinamide a pantothenate - L-lysine HCl,Pediatric,2,2,Botol,"30.885,75","0,01%","97,69%",Pareto C,"-0,06","11.819,00"
+21,BIOL5,Biolysin Kids Jeruk Botol,Vitamin,Vitamin A - Vitamin B1 - Vitamin B2 - Vitamin B6 - Vitamin B12 - Vitamin C - Vitamin D3 - Vitamin E - Niacinamide a pantothenate - L-lysine HCl,Pediatric,1,1,Botol,"15.231,42","0,01%","99,54%",Pareto C,"-1,03","13.000,00"
+22,BIOL 2,Biolysin Kids Straw Botol,Vitamin,Vitamin A - Vitamin B1 - Vitamin B2 - Vitamin B6 - Vitamin B12 - Vitamin C - Vitamin D3 - Vitamin E - Niacinamide a pantothenate - L-lysine HCl,Pediatric,4,4,Botol,"61.348,59","0,02%","92,85%",Pareto C,"-2,13","13.000,00"
+23,BIS2,Bisolvon 10s/Tab,BD,Bromhexine HCl,General,15,161,Tablet,"417.810,66","0,15%","48,80%",Pareto A,"85,81","1.948,47"
+24,B000000000063,BISOLVON EXTRA 125ML,BD,Bromhexine HCl - Guaifenesin ,General,10,10,Botol,"847.263,00","0,30%","26,08%",Pareto A,"4,68","63.941,00"
+25,BSLVNE2,Bisolvon Extra 60 ml,BD,Bromhexine HCl - Guaifenesin,General,20,20,Botol,"1.008.574,86","0,36%","22,21%",Pareto A,"4,35","38.045,00"
+26,BISKIO1,Bisolvon Kids 60 ml,BD,Bromhexine HCl ,Pediatric,25,25,Botol,"1.164.766,29","0,41%","17,99%",Pareto A,"10,19","37.237,00"
+27,B000000000051,BM Multivitamin+Mineral 30s,Vitamin,Vitamin A - Vitamin B1 - Vitamin B2 - Vitamin B3 - Vitamin B5 - Vitamin B6 - Folic acid - Vitamin B12 - Vitamin C - Vitamin D3 - Vitamin E - Biotin - Choline - Inositol - Calcium - Iron - Magnesium - Manganese - Potassium - Zinc,Adult,1,30,Tablet,"241.491,60","0,09%","64,75%",Pareto A,"-0,97","3.454,53"
+28,0001493,BM Natural E 250 IU 50S,Vitamin,d-alpha-tokopherol (Vitamin E),Adult,0,0,Tablet,"0,00","0,00%","0,00%",Dibawah Pareto C,"-50,00","2.959,83"
+29,0001500,BM Vit C 500 mg 60S,Vitamin,Vitamin C,Adult,2,120,Tablet,"292.018,80","0,10%","59,41%",Pareto A,"-63,87","1.647,73"
+30,BODR1,Bodrex /10s,Demam,Paracetamol - Caffeine,General,18,22,Strip,"98.252,76","0,03%","85,73%",Pareto B,"1,29","3.378,50"
+31,BODR8,Bodrex Extra 4s,Demam,Paracetamol - Ibuprofen - Caffeine,General,24,53,Strip,"123.523,02","0,04%","81,49%",Pareto B,"-3,71","1.761,24"
+32,BODRE,Bodrex Flu & Batuk Kering Syr,BK - Flu - Demam,Paracetamol - Phenylephrine HCl - Dextromethorphan HBr,General,1,1,Botol,"10.739,25","0,00%","99,82%",Pareto C,"-2,03","9.072,00"
+33,BODR10,Bodrex Flu dan Batuk Berdahak/strip,BD - Flu - Demam,Paracetamol - Phenylephrine HCl - Glyceryl Guaiacolate - Bromhexine HCl,General,8,12,Strip,"26.094,99","0,01%","98,38%",Pareto C,"-24,39","1.549,52"
+34,BODR2,Bodrex Flu dan Batuk kering/strip,BK - Flu - Demam,"Paracetamol, Pseudoephedrine HCl, Dextromethorphan HBr ",General,12,17,Strip,"39.105,30","0,01%","96,57%",Pareto C,"-12,55","1.549,55"
+35,BODR3,Bodrex Migra/Strp,Demam,Paracetamol - Propyphenazone - Caffeine,Adult,18,33,Strip,"78.615,75","0,03%","89,64%",Pareto B,"-2,06","1.781,00"
+36,B000000000042,Bodrexin Demam,Demam,Paracetamol,Pediatric,3,3,Botol,"36.049,47","0,01%","97,04%",Pareto C,"0,90","9.072,07"
+37,B000000000047,Bodrexin Flu Batuk Berdahak PE,BD - Flu - Demam,Paracetamol - Pseudoephedrine HCl - Glyceryl guaiacolate - Bromhexine HCl - Chlorpheniramine maleate,Pediatric,6,6,Botol,"72.620,64","0,03%","90,90%",Pareto B,"2,81","9.072,07"
+38,BDX,Bodrexin Tab,Demam,Acetylsalicylic Acid,Pediatric,10,132,Tablet,"35.889,63","0,01%","97,08%",Pareto C,"71,74","196,28"
+39,OBT2207150002,BOOST D 1000IU,Vitamin,Vitamin D3 (Cholecalciferol),,1,20,Tablet,"48.218,40","0,02%","95,27%",Pareto C,"-150,65","1.820,00"
+40,CHITI,Bronchitin Exp Syr,BD - Flu - Demam,Paracetamol - Guaifenesin - Phenylephrine,Pediatric,2,2,Botol,"23.873,88","0,01%","98,61%",Pareto C,"-0,06","8.933,00"
+41,OBT2209200004,BUFECT FORTE SYRUP 60ML,Demam,Ibuprofen,General,0,0,Botol,"0,00","0,00%","0,00%",Dibawah Pareto C,"-2,00","21.000,00"
+42,OBT2209200003,BUFECT SYRUP 60ML,Demam,Ibuprofen,General,0,0,Botol,"0,00","0,00%","0,00%",Dibawah Pareto C,"-2,00","15.000,00"
+45,VCS1,C 1000 Lemon Sido Muncul,Vitamin,Vitamin C - Vitamin E - Vitamin B3 - Vitamin B6 - Vitamin B12 - natural lemon concentrate - Honey- aspartame - sodium bicarbonate - citric acid - tartrazine CI,Adult,8,49,SACHET,"85.933,98","0,03%","88,04%",Pareto B,"-263,58","1.166,67"
+46,C000000000112,C 1000 Orange Sido Muncul,Vitamin,Vitamin C - Vitamin E - Vitamin B3 - Vitamin B6 - Vitamin B12 - orange juice powder - Honey - aspartame - sodium bicarbonate - citric acid - tartrazine CI - sunset yellow,Adult,12,61,SACHET,"106.506,72","0,04%","84,12%",Pareto B,"-37,97","1.300,00"
+47,OBT2206200001,Calortusin Tab/Strip 10s,BK - Flu - Demam,Paracetamol - Dextromethorphan HBr - Phenylpropanolamin HCl - Chlorpheniramine Maleate,General,1,1,Strip,"6.209,34","0,00%","99,95%",Pareto C,"-2,03","3.850,00"
+48,C000000000111,Caviplex CDEZ/10s,Vitamin,Vitamin C - Vitamin D3 - Vitamin E - Zn ,Adult,18,31,Strip,"538.133,55","0,19%","40,82%",Pareto A,"15,10","9.000,00"
+49,0000594,Caviplex Syrup,Vitamin,Vitamin A - vitamin D - Vitamin B1 - vitamin B2 - vitamin B6 - vitamin B12 - vitamin C - Nicotinamide - Ca pantothenic - Ca Lactate - Ca Glycerophosphate - glutamic acid,General,2,2,Botol,"25.918,50","0,01%","98,39%",Pareto C,"-5,06","10.263,00"
+50,cavi,Caviplex/10s,Vitamin,Vitamin A - vitamin D - vitamin B1 - vitamin B2 - vitamin B6 - vitamin B12 - vitamin C - nicotinamide - Ca pantothenate - Vitamin E - Biotin - Folic Acid - Fe Fumarate - Glutamic Acid - Ca - Mg carbonate - Zn - Cu - Mn - Fluorine - Iodine,General,28,33,Strip,"309.814,32","0,11%","57,16%",Pareto A,"-7,06","7.000,00"
+51,CAVIT,Cavit D3,Vitamin,Ca hydrogen phosphate - Cholecalciferol,Adult,3,30,Tablet,"89.221,80","0,03%","87,32%",Pareto B,"-110,97","2.236,91"
+52,CDR10,CDR 10 Eff,Vitamin,Calcium carbonate - Vitamin C - Vitamin D - Vitamin B6,Adult,8,8,Tube,"397.866,18","0,14%","50,54%",Pareto A,"-2,26","37.472,00"
+53,CDR2,CDR 20 Eff (twin pack),Vitamin,Calcium carbonate - Vitamin C - Vitamin D - Vitamin B6,Adult,2,2,Tube,"184.477,56","0,07%","71,57%",Pareto B,"-2,06","69.640,00"
+54,cdr4,CDR Eff Tube Isi15,Vitamin,Calcium carbonate - Vitamin C - Vitamin D - Vitamin B6,Adult,2,2,Tube,"138.627,90","0,05%","79,29%",Pareto B,"-1,06","52.290,00"
+55,CDRF,CDR FORTOS EFF 10,Vitamin,Calcium - Calcium carbonate - Vitamin D,Adult,1,1,Tube,"50.497,23","0,02%","94,81%",Pareto C,"-0,03","38.125,00"
+58,COLDR,Coldrexin 60 ml,BD - Flu - Demam,Paracetamol - Phenylephrine - Chlorpheniramine maleat - Kalii sulfoguaiacolas,Pediatric,2,2,Botol,"15.891,87","0,01%","99,48%",Pareto C,"-2,06","5.700,00"
+59,COMTU1,Comtusi Syr 60,BD,Oxomemazine - Guaiafenesin ,General,1,1,Botol,"50.843,55","0,02%","94,79%",Pareto C,"-2,03","35.100,00"
+60,C000000000073,Comtusi Syr Strawberry 60ml,BD,Oxomemazine - Guaiafenesin ,General,6,6,Botol,"306.831,75","0,11%","57,59%",Pareto A,"1,81","35.100,00"
+61,D000000000015,D Vit FT 400 IU,Vitamin,Vitamin D3,Adult,4,45,Tablet,"153.873,75","0,05%","76,80%",Pareto B,"-311,45","2.500,00"
+62,D000000000016,D Vit Syr,Vitamin,Vitamin D3,General,12,15,Botol,"598.402,11","0,21%","37,03%",Pareto A,"5,52","30.000,00"
+63,OBT2202180002,D3 400 IU PYRIDAM per Tablet,Vitamin,Vitamin D3,Adult,1,10,Tablet,"13.131,30","0,00%","99,69%",Pareto C,"9,68","1.000,00"
+65,DECAD1,Decadryl 60 ml,BD,Diphenhydramine HCl - Ammonium Chloride,General,2,2,Botol,"41.058,90","0,01%","96,37%",Pareto C,"-1,06","15.500,00"
+66,DECOL2,Decolgen 60 ml,Demam - Flu,Paracetamol - Chlorpheniramine maleate - Pseudoephedrine HCl ,Pediatric,1,1,Botol,"11.901,42","0,00%","99,76%",Pareto C,"-3,03","8.974,00"
+67,DEC1,Decolgen FX tab,Demam - Flu,Paracetamol - Pseudoephedrine HCl - Chlorpheniramine maleate,General,0,0,Tablet,"0,00","0,00%","0,00%",Dibawah Pareto C,"-100,00","486,14"
+68,DLGEN,Decolgen STRIP,Demam - Flu,Paracetamol - Phenylpropanolamine HCl - Chlorpheniramine maleate,General,27,50,Strip,"106.753,14","0,04%","84,08%",Pareto B,"2,39","1.582,92"
+69,DECOLS1,Decolsin 60 ML,BD BK Flu Demam,Paracetamol - Pseudoephedrine HCl - Chlorpheniramine maleate - Dextromethorphan HBr - Guaifenesin,General,6,6,Botol,"118.292,70","0,04%","82,30%",Pareto B,"0,81","14.850,00"
+70,DLSIN,Decolsin STRIP,BD BK Flu Demam,Paracetamol - Pseudoephedrine HCl - Chlorpheniramine maleate - Dextromethorphan HBr - Guaifenesin,Adult,25,61,Strip,"180.858,96","0,06%","72,22%",Pareto B,"23,03","2.226,00"
+71,D000000000010,Degirol Strip 10s,Sakit Tenggorokan,Dequalinium Chloride,General,109,120,Strip,"1.646.390,85","0,58%","9,07%",Pareto A,"69,13","10.909,10"
+72,0000196,Demacolin Syr 60 ml,Demam - Flu,Paracetamol - Pseudoephedrine - Chlorpheniramine maleat,Pediatric,2,2,Botol,"44.635,32","0,02%","95,86%",Pareto C,"-3,06","16.000,00"
+73,DEMACO,Demacolin/10,Demam - Flu,Paracetamol - Pseudoephedrine - Chlorpheniramine maleat,General,29,31,Strip,"224.072,37","0,08%","66,65%",Pareto A,"-7,00","4.460,00"
+74,D000000000040,DeVit FT 1000 IU,Vitamin,Vitamin D3,Adult,2,20,Tablet,"68.265,00","0,02%","91,63%",Pareto C,"-75,65","2.600,00"
+75,D000000000025,Dicom tablet,Flu,Pseudoephedrin HCl - Tripolidine HCl,General,60,630,Tablet,"1.254.655,20","0,45%","16,72%",Pareto A,"329,68","1.500,00"
+76,E000000000025,Egoji Gummy Blackcurrant,Vitamin,Goji berry fruit extract - Vitamin C - Zinc - Vitamin B3 - Vitamin B5 - Vitamin E - Vitamin B6 - Vitamin B2 - Vitamin B1 - Vitamin A - Vitamin D,Pediatric,2,2,SACHET,"18.654,66","0,01%","99,15%",Pareto C,"-5,06","7.000,00"
+77,E000000000031,Egoji Gummy Leci,Vitamin,Goji berry fruit extract - Vitamin C - Zinc - Vitamin B3 - Vitamin B5 - Vitamin E - Vitamin B6 - Vitamin B2 - Vitamin B1 - Vitamin A - Vitamin D,Pediatric,3,3,SACHET,"27.583,50","0,01%","98,20%",Pareto C,"-7,10","7.000,00"
+78,E000000000026,Egoji Gummy Melon,Vitamin,Goji berry fruit extract - Vitamin C - Zinc - Vitamin B3 - Vitamin B5 - Vitamin E - Vitamin B6 - Vitamin B2 - Vitamin B1 - Vitamin A - Vitamin D,Pediatric,4,4,SACHET,"37.309,32","0,01%","96,90%",Pareto C,"-5,13","7.000,00"
+79,E000000000008,Egoji Gummy Orange,Vitamin,Goji berry fruit extract - Vitamin C - Zinc - Vitamin B3 - Vitamin B5 - Vitamin E - Vitamin B6 - Vitamin B2 - Vitamin B1 - Vitamin A - Vitamin D,Pediatric,14,19,SACHET,"176.491,11","0,06%","73,11%",Pareto B,"2,39","7.000,00"
+80,E000000000007,Egoji Gummy Strawberry,Vitamin,Goji berry fruit extract - Vitamin C - Zinc - Vitamin B3 - Vitamin B5 - Vitamin E - Vitamin B6 - Vitamin B2 - Vitamin B1 - Vitamin A - Vitamin D,Pediatric,9,9,SACHET,"84.112,47","0,03%","88,31%",Pareto B,"-2,29","7.000,00"
+81,OBT2204190002,EGOJI SYRUP ANGGUR 50 ML,Vitamin,Lycium Barbarum Extract - Echinaceae Purpurea Extract - Phyllanthus Niruri Extract - Sambucus Nigra Extract,Pediatric,1,1,Botol,"39.735,78","0,01%","96,55%",Pareto C,"-1,03","30.000,00"
+82,ENE1,ENERVON  C 30S,Vitamin,Vitamin C - Niasinamide - Kalsium Pantotenat - Vitamin B1 - Vitamin B2 - Vitamin B6 - Vitamin B12,General,1,1,Botol,"38.995,41","0,01%","96,59%",Pareto C,"-7,03","29.410,00"
+83,ENERCP2,ENERVON  C Plus 120 ml,Vitamin,Vitamin A - Vitamin B1 - Vitamin B2 - Vitamin B6 - Vitamin B12 - Vitamin C - Vitamin D - Niacinamide - d-Panthenol ,Pediatric,1,1,Botol,"21.444,09","0,01%","98,86%",Pareto C,"-2,03","16.190,00"
+84,E000000000002,Enervon Active botol 30,Vitamin,Vitamin C (Kalsium Askorbat) - Vitamin B1 (Tiamin Mononitrat) - Vitamin B2 (Riboflavin) - Vitamin B6 (Piridoksin Hcl) - Vitamin B12 - Kalsium Pantotenat - Niasinamida - Zinc ,Adult,1,1,Botol,"43.374,36","0,02%","96,01%",Pareto C,"-2,03","32.750,00"
+85,E000000000001,Enervon Active/Strip 4s,Vitamin,Vitamin C (Kalsium Askorbat) - Vitamin B1 (Tiamin Mononitrat) - Vitamin B2 (Riboflavin) - Vitamin B6 (Piridoksin Hcl) - Vitamin B12 - Kalsium Pantotenat - Niasinamida - Zinc ,Adult,5,8,Strip,"48.761,19","0,02%","95,22%",Pareto C,"-29,26","4.572,00"
+86,E000000000030,Enervon C Effervescent 10,Vitamin,Vit B1 - Vit B2 - Vit B6 - Vit B12 - Vit C - Niacinamide - Ca Pantothenate,Adult,1,1,Tube,"33.853,89","0,01%","97,32%",Pareto C,"-1,03","25.792,00"
+87,ENE3,ENERVON C Strip,Vitamin,Vitamin C - Niasinamide - Kalsium Pantotenat - Vitamin B1 - Vitamin B2 - Vitamin B6 - Vitamin B12,Adult,27,73,Strip,"387.501,00","0,14%","51,37%",Pareto A,"-20,35","3.999,60"
+88,EPEXO,Epexol 30,BD,Ambroxol,Adult,7,70,Tablet,"92.074,50","0,03%","86,71%",Pareto B,"-59,26","850,00"
+89,EPEX,Epexol Syr,BD,Ambroxol,General,1,1,Botol,"24.522,12","0,01%","98,54%",Pareto C,"-2,03","17.750,00"
+91,OBT2204160001,ERDOSTEIN 300MG/STRIP 10S,BD,Erdosteine,Adult,3,3,Strip,"113.165,61","0,04%","82,87%",Pareto B,"-2,60","27.000,00"
+101,ESCstr,Ester C 4s,Vitamin,Ester-C - Kalsium - Citrus bioflavonoid ,General,22,44,Strip,"306.365,55","0,11%","57,81%",Pareto A,"12,58","5.250,00"
+102,ESTERH2,Ester C Kids Holisticare 30s,Vitamin,Ester-C - Kalsium - Hesperidin ,Pediatric,4,4,KOTAK,"169.647,96","0,06%","74,52%",Pareto B,"-1,13","32.000,00"
+103,ESTERH,Ester C Super 30 Holisticare,Vitamin,vitamin C - Calcium - Citrus Bioflavonoid,General,5,5,Botol,"250.998,75","0,09%","63,79%",Pareto A,"-5,16","37.850,00"
+104,EVER E1,Ever E 250 soft capsul,Vitamin,Vitamin E,General,5,44,KAPSUL,"118.974,24","0,04%","82,13%",Pareto B,"24,58","2.040,00"
+105,OBT2203150001,Farsifen PLUS Strip,Demam,Paracetamol - Ibuprofen - Kafein,Adult,1,1,Strip,"5.217,00","0,00%","99,97%",Pareto C,"-9,03","3.298,70"
+106,FART,Fartolin Expectorant Syr,BD,Guaifenesin - Salbutamol,General,1,1,Botol,"61.328,61","0,02%","92,90%",Pareto C,"-3,03","42.500,00"
+107,0000220,Ferriz Drops,Vitamin,Sodium Fe EDTA ,Pediatric,6,6,Botol,"278.148,24","0,10%","60,81%",Pareto A,"1,81","35.000,00"
+108,0001104,Ferriz Syr,Vitamin,Sodium Fe EDTA ,General,1,1,Botol,"46.358,04","0,02%","95,52%",Pareto C,"-1,03","35.000,00"
+109,FITK3,FITKOM GRAPE,Vitamin,Ca pantothenate - nicotinamide - vitamin A - vitamin B1 - vitamin B12 - vitamin B2 - vitamin B6 - vitamin C - vitamin D - vitamin E ,General,3,3,Botol,"48.078,54","0,02%","95,28%",Pareto C,"0,90","12.100,00"
+110,fit 4,Fitkom Gummy BOX (Biru),Vitamin,"Vitamin A, C, B1, B3 dan B6 serta mengandung vitamin B2, B7, B12, D dan E",General,2,3,Box,"51.654,96","0,02%","94,66%",Pareto C,"-0,10","13.000,00"
+111,FITK1,FITKOM ORANGE,Vitamin,"Vitamin A, C, B1, B3 dan B6 serta mengandung vitamin B2, B7, B12, D dan E",General,1,1,Botol,"16.026,18","0,01%","99,44%",Pareto C,"-3,03","12.100,00"
+112,FITK,FITKOM STRAWBERRY,Vitamin,"Vitamin A, C, B1, B3 dan B6 serta mengandung vitamin B2, B7, B12, D dan E",General,8,8,Botol,"128.764,44","0,05%","80,77%",Pareto B,"0,74","12.100,00"
+161,KOMX3,Komix Pepermint,BD - BK,Dextrometorphan HBr - Guaifenesin - CTM,Adult,12,41,SACHET,"65.800,80","0,02%","92,13%",Pareto C,"-47,32","1.196,97"
+162,KOND,Konidin/Strip,BD - BK,Dextrometorphan HBr - Guaifenesin - CTM,Adult,13,22,Strip,"58.896,60","0,02%","93,47%",Pareto C,"-29,71","1.930,00"
+163,0000175,Kool Fever Anak,Demam,-,Pediatric,8,15,PC,"108.843,27","0,04%","83,78%",Pareto B,"-1,48","5.466,67"
+164,K000000000011,Kool Fever Dewasa,Demam,-,Adult,12,26,PC,"207.011,67","0,07%","68,79%",Pareto A,"10,16","6.016,67"
+165,Lacol1,LACOLDIN Sirup 60ml,BK - Flu - Demam,Paracetamol - Phenylpropanolamine HCl - Dextromethorphan HBr - CTM,General,7,7,Botol,"204.031,32","0,07%","69,01%",Pareto A,"-1,23","22.000,00"
+166,Local,Lacoldin/10s,BK - Flu - Demam,Paracetamol - Phenylpropanolamine HCl - Dextromethorphan HBr - CTM,General,18,18,Strip,"478.159,14","0,17%","45,00%",Pareto A,"-1,58","20.000,00"
+167,LAP5,Lapifed 60 ml,Flu,Pseudoephedrine HCl - Triprolidine HCl,General,5,5,Botol,"172.355,25","0,06%","73,85%",Pareto B,"-1,16","26.000,00"
+168,LAP4,Lapifed DM 100 ml,BK - Flu,Pseudoephedrine HCl - Triprolidine HCl - Dextromethorphan HBr,General,7,7,Botol,"296.933,88","0,11%","58,99%",Pareto A,"-2,23","32.000,00"
+169,LAP3,Lapifed Exp 60 ml,BD - Flu,Pseudoephedrine HCl - Triprolidine HCl - Guaifenesin,General,17,17,Botol,"612.421,41","0,22%","36,16%",Pareto A,"5,45","27.000,00"
+170,LAPSIV1,Lapisiv 100 ml,BD - BK - Flu,Diphenhydramine HCl - Dextromethorphan HBr - Phenylpropanolamine HCl - Ammonium Cl - Glyceryl Guaiacolate - Na citrate - Menthol,General,1,1,Botol,"27.814,38","0,01%","98,17%",Pareto C,"-3,03","21.000,00"
+171,LAP2,Lapisiv-T / 10,BD - BK - Flu,Guaifenesin - Dextromethorphan HBr - Diphenhydramine HCl,General,5,5,Strip,"106.238,10","0,04%","84,31%",Pareto B,"-21,16","16.000,00"
+172,LAP1,Lapistan 500 mg,nyeri,Asam mefenamat,Adult,1,10,KAPSUL,"19.425,00","0,01%","99,09%",Pareto C,"-23,32","1.300,00"
+173,LASA1,Lasal Exp Syr 100 ml,BD,Salbutamol sulfate - Guaifenesin/gkyceryl guaiacolate,General,10,10,Botol,"578.532,00","0,21%","38,06%",Pareto A,"-1,32","40.000,00"
+174,L000000000034,Lavit C 1000mg,Vitamin,Vitamin C 1000mg,General,4,24,Tablet,"98.110,68","0,03%","85,80%",Pareto B,"-38,77","3.100,00"
+175,L000000000030,Lavit C 500 INJEKSI,Vitamin,Vitamin C 500mg,Adult,2,10,VIAL,"299.777,70","0,11%","58,78%",Pareto A,"2,68","21.000,00"
+176,M000000000129,Max D 1000 IU / Tab,Vitamin,Vitamin D3 1000IU,Adult,2,20,Tablet,"59.174,10","0,02%","93,37%",Pareto C,"-0,65","2.250,00"
+177,M000000000116,Megazing Tablet,Vitamin,Vitamin E 30 IU - Vitamin B1 - Vitamin B2 - Nicotinamide - Vitamin B6 - Vitamin B12 - Folic Acid - Ca - Pantothenic Acid - Zn,Adult,1,10,Tablet,"39.738,00","0,01%","96,52%",Pareto C,"-25,32","3.000,00"
+178,MEXT,Mextril,BD - BK - Flu,Dextromethorphan HBr - Phenylpropanolamine HCl - Glyceryl guaiacolate - CTM,Adult,1,2,Strip,"4.817,40","0,00%","99,98%",Pareto C,"-17,06","1.818,20"
+179,MIXGR1,Mixagrip Flu dan Batuk,BK - Flu - Demam,Paracetamol - Dextromethorphan HBr - Phenylephrine HCl,General,7,10,Strip,"27.627,90","0,01%","98,19%",Pareto C,"-19,32","2.027,28"
+180,MIXGR,Mixagrip/Strip,Demam - Flu,Paracetamol - Phenylephrine HCl - CTM,General,4,4,Strip,"9.927,84","0,00%","99,85%",Pareto C,"-24,13","1.986,48"
+181,MOL1,Molexflu/10s,Demam - Flu,Paracetamol - Phenylephrine HCl - CTM,General,4,10,Strip,"62.106,72","0,02%","92,76%",Pareto C,"5,68","4.666,67"
+182,MUCsy,Mucohexin Syr 120 ml,BD,Bromhexine HCl,General,1,2,Botol,"44.726,34","0,02%","95,83%",Pareto C,"-0,06","18.400,00"
+183,MUCOH,Mucohexin/strip,BD,Bromhexine HCl,General,6,13,Strip,"36.474,60","0,01%","97,02%",Pareto C,"-26,42","2.100,00"
+184,MUCO1,Mucos Drop,BD,Ambroxol HCl,Pediatric,3,3,Botol,"149.979,87","0,05%","77,50%",Pareto B,"-5,10","34.500,00"
+185,M000000000124,MyWell Vit D1000 IU / Botol 20,Vitamin,Vitamin D3 1000 IU,Adult,4,5,Botol,"99.160,74","0,04%","85,70%",Pareto B,"-7,16","15.000,00"
+186,NALG,Nalgestan Strip,Flu,Phenylpropanolamine HCl - CTM,Adult,9,13,Strip,"126.330,21","0,04%","80,95%",Pareto B,"-21,42","7.236,60"
+187,0001479,Natur E 300IU,Vitamin,Vitamin E 300 IU,Adult,4,80,KAPSUL,"192.780,36","0,07%","70,70%",Pareto A,"-132,58","1.839,38"
+188,0001061,Natur E Advanced Putih 100 ml,skincare/lotion,Mengandung vitamin E beads,Adult,1,1,PC,"19.468,29","0,01%","99,08%",Pareto C,"0,97","14.832,00"
+189,0001060,Natur E Advanced/tab,Vitamin,Natural Vitamin E 100 IU - Astaxanthin - Lycopene ,Adult,1,8,KAPSUL,"21.953,58","0,01%","98,80%",Pareto C,"-12,26","2.045,56"
+190,NATE,Natur E/soft kapsul,Vitamin,Natural Vitamin E 100 IU,Adult,7,140,KAPSUL,"200.761,26","0,07%","69,44%",Pareto A,"-12,52","945,88"
+191,N000000000031,Nellco Spc PE 100,BD - Flu - Demam,Glycyrrhizae Succus - Phenylephrine HCl - Paracetamol - Ammonium Cl - CTM,General,20,21,Botol,"667.491,84","0,24%","32,98%",Pareto A,"11,32","26.354,00"
+192,OBH N2,Nellco Sps 55 ml,BD - Flu - Demam,Glycyrrhizae Succus - Phenylephrine HCl - Paracetamol - Ammonium Cl - CTM,General,5,5,Botol,"117.247,08","0,04%","82,34%",Pareto B,"-4,16","17.500,00"
+193,NEOZF,Neozep Forte/Strip,Demam - Flu,Phenylpropanolamine HCl - Paracetamol - Salicylamide - CTM,General,30,64,Strip,"163.421,97","0,06%","75,23%",Pareto B,"18,94","1.924,00"
+194,OBT2208310002,NIPE FEVER DROP 15ml,Demam - Flu,Isothipendyl HCl - Acetaminophen - Phenylephrine HCl,Pediatric,0,0,Botol,"0,00","0,00%","0,00%",Dibawah Pareto C,"-3,00","35.000,00"
+195,0000828,OB Herbal 100 ml,BD,Zingiberis rhizoma - Kaempfeiae rhizoma - Citrus aurantii fructus - Thymi herba - Mentahae folium - Myristicae semen - Licorice,General,8,8,Botol,"208.375,86","0,07%","68,49%",Pareto A,"-2,26","19.468,00"
+196,ANT1,OB Herbal 60 ml,BD,Zingiberis rhizoma - Kaempfeiae rhizoma - Citrus aurantii fructus - Thymi herba - Mentahae folium - Myristicae semen - Licorice,General,6,6,Botol,"101.177,61","0,04%","85,27%",Pareto B,"0,81","13.475,00"
+197,ANT 1,OB Herbal Junior 60 ml,BD,Zingiberis rhizoma - Menthae folia - Phyllanthi herba - Kaempfeiae rhizoma - Citrus aurantifoli fructus - Thymi herba - Myristicae semen - Glycyrrhizae Radix - Madu,Children,6,6,Botol,"101.602,74","0,04%","85,16%",Pareto B,"1,81","13.475,00"
+198,ObI,Obat Batuk Ibu & Anak 150ml,BD,Bulbus Fritillariae Cirrhosae - Folium Eriobotryae - Radix Adenophorae - Poria - Exocarpium Citri Grandis - Radix Platycodonis - Rhizoma Pinelliae Preparatum - Fructus Schisandrae Chinensis - Semen Trichosanthis - Flos Farfarae - Radix Polygalae - Semen Armeniacae Amarum - Rhizoma Zingiberis Recens - Radix Glycyrrhizae - Mentholum - Aqua Armeniacae,General,6,6,Botol,"344.401,92","0,12%","53,31%",Pareto A,"-2,19","43.337,00"
+199,Ob2,Obat Batuk Ibu & Anak 75 ml,BD,Bulbus Fritillariae Cirrhosae - Folium Eriobotryae - Radix Adenophorae - Poria - Exocarpium Citri Grandis - Radix Platycodonis - Rhizoma Pinelliae Preparatum - Fructus Schisandrae Chinensis - Semen Trichosanthis - Flos Farfarae - Radix Polygalae - Semen Armeniacae Amarum - Rhizoma Zingiberis Recens - Radix Glycyrrhizae - Mentholum - Aqua Armeniacae,General,14,15,Botol,"457.447,65","0,16%","46,33%",Pareto A,"-4,48","23.005,00"
+200,OBHC7,OBH Combi Anak 60 ml Apel,BD - Flu - Demam,Succus liquiritiae - Paracetamol - Ammonium Cl - Pseudoephedrine HCl - CTM,Children,6,7,Botol,"111.631,59","0,04%","83,07%",Pareto B,"2,77","12.150,00"
+201,OBHC5,OBH Combi Anak 60 ml Jeruk,BD - Flu - Demam,Succus liquiritiae - Paracetamol - Ammonium Cl - Pseudoephedrine HCl - CTM,Children,11,13,Botol,"209.317,14","0,07%","68,42%",Pareto A,"3,58","12.150,00"
+202,OBH C11,OBH Combi Anak 60 ml Madu,BD - Flu - Demam,Succus liquiritiae - Paracetamol - Ammonium Cl - Pseudoephedrine HCl - CTM,Children,7,7,Botol,"112.671,66","0,04%","82,91%",Pareto B,"1,77","12.150,00"
+203,OBH C5,OBH Combi Anak 60 ml Straw,BD - Flu - Demam,Succus liquiritiae - Paracetamol - Ammonium Cl - Pseudoephedrine HCl - CTM,Children,14,16,Botol,"257.740,89","0,09%","63,07%",Pareto A,"1,48","12.150,00"
+241,0000392,Proris Suppositoria,Demam,ibuprofen,General,3,4,SUPPO,"28.860,00","0,01%","98,04%",Pareto C,"-7,13","4.700,00"
+242,PRORI2,Proris Syr,Demam,Ibuprofen,Pediatric,17,17,Botol,"518.386,65","0,18%","42,70%",Pareto A,"6,45","23.000,00"
+243,0001264,Proris Triple Action,Demam,Ibuprofen,General,8,100,Tablet,"102.231,00","0,04%","85,05%",Pareto B,"47,77","770,00"
+244,Prospan,Prospan Syr 100ml,BD,Ivy Leaves Extract,General,9,9,Botol,"808.484,04","0,29%","26,95%",Pareto A,"-0,29","67.700,00"
+245,P000000000082,Prove D3 1000,Vitamin,Vitamin D3,Adult,11,150,Tablet,"534.731,40","0,19%","41,20%",Pareto A,"15,16","2.500,00"
+246,H000000000047,Prove D3 5000 IU,Vitamin,Vitamin D3,Adult,3,45,Tablet,"221.916,75","0,08%","67,12%",Pareto A,"-116,45","3.666,67"
+247,RED 10,REDOXON  10 Eff,Vitamin,Vitamin C - Vitamin D - Zinc,Adult,11,12,Tube,"558.478,74","0,20%","39,07%",Pareto A,"2,61","35.144,00"
+248,RED 2,Redoxon 20 eff Orange (twin pack),Vitamin,Vitamin C - Vitamin D - Zinc,Adult,3,3,Botol,"264.530,76","0,09%","61,86%",Pareto A,"0,90","66.918,00"
+249,OBT2203120002,Redoxon chewable per strip,Vitamin,Vitamin C - Vitamin D - Zinc,Adult,1,2,Strip,"8.948,82","0,00%","99,88%",Pareto C,"-2,06","3.409,16"
+250,OBT2201260012,Redoxon Chewablekids Vitamin C,Vitamin,Vitamin C - Zinc,Pediatric,2,2,Botol,"147.139,38","0,05%","77,92%",Pareto B,"-2,06","55.545,00"
+251,0000342,Redoxon Eff 15 Festive Pack,Vitamin,Vitamin C- Vitamin D - Zinc,Adult,4,5,Tube,"230.796,75","0,08%","65,84%",Pareto A,"-19,16","35.144,00"
+252,RED 3,Redoxon Fortimun Eff,Vitamin,Vitamin A - Vitamin B6 - Vitamin B12 - Vitamin C - Vitamin D - Vitamin E - Iron - Zinc - Selenium - Copper,Adult,1,1,Tube,"52.700,58","0,02%","94,44%",Pareto C,"-1,03","41.890,00"
+253,R000000000003,Redoxon Sachet Orange/Strip 2s,Vitamin,Vitamin C- Vitamin D - Zinc,Adult,9,12,SACHET,"120.976,68","0,04%","81,92%",Pareto B,"-1,40","7.276,92"
+255,0000347,Rhinofed Syrup 60 mL,Flu,Pseudoephedrine - Triprolidine,General,3,3,Botol,"119.429,34","0,04%","82,01%",Pareto B,"0,90","30.000,00"
+256,RHINOF,Rhinofed Tab @50 Tablet,Flu,Pseudoephedrine - terfenadine,Adult,4,22,Tablet,"86.699,88","0,03%","87,89%",Pareto B,"-54,71","2.200,00"
+257,0000232,Rhinos Junior Syrup 60 ml,Flu,Pseudoephedrine - CTM,General,36,38,Botol,"1.994.092,80","0,71%","7,24%",Pareto A,"6,77","40.000,00"
+258,RHINOS1,Rhinos Neo Drop 10 ml,Flu,Pseudoephedrine,Pediatric,11,11,Botol,"747.740,45","0,27%","30,23%",Pareto A,"-2,35","52.000,00"
+259,0000784,Sakatonik ABC   Antariksa 30,Vitamin,Vitamin A - Vitamin B1 - Vitamin B2 - Vitamin B3 - Vitamin B6 - Vitamin B12 - Vitamin C - Vitamin D3 - Vitamin E - Panthotenate,Pediatric,5,5,Botol,"86.321,37","0,03%","87,92%",Pareto B,"-1,16","12.860,00"
+260,SAKABC2,Sakatonik ABC   Grape 30,Vitamin,Vitamin A - Vitamin B1 - Vitamin B2 - Vitamin B3 - Vitamin B6 - Vitamin B12 - Vitamin C - Vitamin D3 - Vitamin E - Panthotenate,Pediatric,5,5,Botol,"88.188,39","0,03%","87,58%",Pareto B,"2,84","12.955,00"
+261,SAKAABC,Sakatonik ABC   Orange 30,Vitamin,Vitamin A - Vitamin B1 - Vitamin B2 - Vitamin B3 - Vitamin B6 - Vitamin B12 - Vitamin C - Vitamin D3 - Vitamin E - Panthotenate,Pediatric,6,6,Botol,"103.067,94","0,04%","84,98%",Pareto B,"1,81","12.955,00"
+262,SAKABC1,Sakatonik ABC   Straw 30,Vitamin,Vitamin A - Vitamin B1 - Vitamin B2 - Vitamin B3 - Vitamin B6 - Vitamin B12 - Vitamin C - Vitamin D3 - Vitamin E - Panthotenate,Pediatric,8,10,Botol,"172.038,90","0,06%","74,09%",Pareto B,"2,68","12.955,00"
+263,SAK300,SAKATONIK AKTIVE SYR 330ml,Vitamin,Vitamin B1 - Vitamin B2 - Vitamin B6 - Vitamin B12 - Vitamin C - Panthotenate - Hypophospite Sodium - Manganese Sulfate - Ferro Sulfate ,Adult,1,1,Botol,"28.477,05","0,01%","98,11%",Pareto C,"-0,03","22.973,00"
+264,SANA4,Sanadryl DMP 120 ml,BK - Flu,Dextromethorphan HBr - Diphenhydramine - Ammonium Chloride,General,3,4,Botol,"106.488,96","0,04%","84,16%",Pareto B,"1,87","21.100,00"
+265,SANA1,Sanadryl DMP 60 ml,BK - Flu,Dextromethorphan HBr - Diphenhydramine - Ammonium Chloride,General,1,1,Botol,"16.291,47","0,01%","99,41%",Pareto C,"-3,03","13.000,00"
+266,SANA2,Sanadryl EXP 120 ml Syr,BD - Flu,Diphenhydramine - Ammonium Chloride - Potssium Guaiacolsulfonate,General,6,6,Botol,"123.620,70","0,04%","81,40%",Pareto B,"0,81","15.400,00"
+267,SANA3,Sanadryl Exp 60 ml,BD - Flu,Diphenhydramine - Ammonium Chloride - Potssium Guaiacolsulfonate,General,6,6,Botol,"82.954,74","0,03%","88,64%",Pareto B,"-0,19","11.250,00"
+268,SANF,Sanaflu  PE/Strip,Demam - Flu,Paracetamol - Phenylpropanolamine,General,8,30,Strip,"83.072,40","0,03%","88,55%",Pareto B,"4,03","2.080,00"
+269,SANMO2,Sanmol Drop,Demam,Paracetamol,Pediatric,14,14,Botol,"307.816,32","0,11%","57,49%",Pareto A,"0,55","16.600,00"
+270,S000000000070,Sanmol Forte Syr,Demam,Paracetamol,Adult,23,23,Botol,"826.520,43","0,29%","26,67%",Pareto A,"6,26","27.100,00"
+271,SANM,Sanmol Forte/Strip,Demam,Paracetamol,Adult,17,34,Strip,"81.499,53","0,03%","88,99%",Pareto B,"14,90","1.696,00"
+272,SANM3,Sanmol Strip 4S,Demam,Paracetamol,General,70,133,Strip,"264.092,31","0,09%","62,05%",Pareto A,"15,71","1.452,00"
+273,SANMO1,Sanmol Syr 60,Demam,Paracetamol,General,57,58,Botol,"1.131.572,85","0,40%","18,80%",Pareto A,"25,13","15.225,00"
+274,seloxy1,Seloxy AA kaplet,Vitamin,Alpha -Lipoic acid - Ca ascorbate - Zinc picolinate - Selenium - Beta carotene,Adult,1,12,Tablet,"110.467,20","0,04%","83,35%",Pareto B,"-15,39","6.333,33"
+275,SILA3,Siladex ATT Merah 60 ml,BK,Dextromethorphan HBr - CTM,General,8,8,Botol,"122.508,48","0,04%","81,79%",Pareto B,"1,74","11.520,00"
+276,SILA6,Siladex CC Biru 30 ml,BK - Flu,Dextromethorphan HBr - Pseudoephedrine - Doxylamine succinate,General,3,3,Botol,"25.674,30","0,01%","98,41%",Pareto C,"-2,10","6.520,00"
+277,SILA4,Siladex CC Biru 60 ml,BK - Flu,Dextromethorphan HBr - Pseudoephedrine - Doxylamine succinate,General,6,6,Botol,"90.935,64","0,03%","86,88%",Pareto B,"0,81","12.500,00"
+278,OBT2206220001,SILADEX COUGH HERBAL 60 ML,BK,Glychirriza inflata radix extract - Drymaria cordata herba extract - Myristica fragrans semen extract - Honey,General,1,1,Botol,"15.480,06","0,01%","99,51%",Pareto C,"-1,03","11.520,00"
+279,0000628,Siladex ME Hijau 100 ml,BD,Bromhexine HCl - Guaifenesin,General,5,5,Botol,"104.942,73","0,04%","84,68%",Pareto B,"4,84","15.849,54"
+280,SILA5,Siladex ME Hijau 30 ml,BD,Bromhexine HCl - Guaifenesin,General,1,1,Botol,"8.669,10","0,00%","99,90%",Pareto C,"-2,03","6.900,00"
+281,SILA1,Siladex ME Hijau 60 ml,BD,Bromhexine HCl - Guaifenesin,General,7,7,Botol,"106.487,85","0,04%","84,20%",Pareto B,"1,77","11.520,00"
+282,silex,Silex Syr,BD - Flu,Extract thymi liquid - Extract primulae liquid - Extract althae liquid - Extract droserae - Extract serphylli - Oleum  eucalypti - Oleum anisi,General,14,14,Botol,"1.145.486,70","0,41%","18,40%",Pareto A,"1,55","61.400,00"
+283,SPTRM,SP Troches Melon 12s,Sakit Tenggorokan,Dequalinium Chloride,General,13,14,Dus,"223.802,64","0,08%","66,73%",Pareto A,"-5,45","12.617,00"
+284,S000000000069,SP Troches Melon 6s,Sakit Tenggorokan,Dequalinium Chloride,General,1,1,Dus,"13.170,15","0,00%","99,69%",Pareto C,"-15,03","9.943,20"
+285,SP1,SP Troches Straw 12s,Sakit Tenggorokan,Dequalinium Chloride,General,25,26,Dus,"416.163,42","0,15%","49,09%",Pareto A,"-12,84","12.073,00"
+286,SPSTRAW6,SP Troches Straw 6s,Sakit Tenggorokan,Dequalinium Chloride,General,15,17,Dus,"224.505,27","0,08%","66,57%",Pareto A,"-7,55","9.944,14"
+287,Stim3,Stimuno Forte /10s,Vitamin,Extract Phyllanthus niruri,General,1,1,Strip,"32.781,63","0,01%","97,48%",Pareto C,"-2,03","24.750,00"
+288,Stim5,STIMUNO GRAPE 100 ML,Vitamin,Extract Phyllanthus niruri,General,2,2,Botol,"94.560,90","0,03%","86,38%",Pareto B,"-0,06","35.550,00"
+289,Stim6,STIMUNO GRAPE 60 ML,Vitamin,Extract Phyllanthus niruri,General,5,5,Botol,"164.679,60","0,06%","74,99%",Pareto B,"1,84","24.850,00"
+290,S000000000024,Stimuno Orange Berry 60 ml,Vitamin,Extract Phyllanthus niruri,General,1,1,Botol,"32.967,00","0,01%","97,43%",Pareto C,"-1,03","24.850,00"
+291,Stim2,Stimuno Syr 100 ml,Vitamin,Extract Phyllanthus niruri,General,3,3,Botol,"141.369,60","0,05%","78,69%",Pareto B,"0,90","35.550,00"
+292,Stim,Stimuno Syr 60 ml,Vitamin,Extract Phyllanthus niruri,General,2,2,Botol,"65.827,44","0,02%","92,11%",Pareto C,"-0,06","24.850,00"
+293,STOC,Stop Cold strip,BD - Flu - Demam,Paracetamol - Pseudoephedrine HCl -  Chlorpheniramine Maleat - Guaifenesin,Adult,12,19,Strip,"64.346,70","0,02%","92,41%",Pareto C,"8,39","2.522,60"
+294,SUMA,Sumagesic/Strip,Demam,Paracetamol,Adult,11,28,Strip,"77.819,88","0,03%","89,89%",Pareto B,"-7,90","2.083,20"
+296,0001490,Supravit Tab/Botol,Vitamin,Vitamin A - Vitamin D3 - Vitamin B1 HCl - Vitamin B2 - Vitamin B6 HCl - Vitamin B12 - Vitamin C - Vitamin E - Biotin - Vitamin K4 - Nicotinamide - Choline Bitartrate - Calcium Pantothenate - Inositol - Folic Acid - Glutamic Acid - L-Lysine HCl - Extract Sophorae japonica flos - Ferrum - Iodium -  Mangan - Magnesium - Zinc - Sodium - Pottasium - Calcium - Phosphat,General,2,3,Botol,"130.339,53","0,05%","80,54%",Pareto B,"0,90","36.300,00"
+297,TEMP3,TEMPRA DROP 15 ML,Demam,Paracetamol,Pediatric,12,12,Botol,"660.327,90","0,23%","33,45%",Pareto A,"3,61","41.500,00"
+298,TEMP2,Tempra F 60 ml,Demam,Paracetamol,Pediatric,9,9,Botol,"507.811,68","0,18%","43,61%",Pareto A,"-11,29","42.600,00"
+299,0000597,Tempra Syr 100ml,Demam,Paracetamol,Pediatric,2,2,Botol,"129.510,36","0,05%","80,63%",Pareto B,"-1,06","49.000,00"
+300,TEMP4,TEMPRA SYR 30 ML,Demam,Paracetamol,Pediatric,5,5,Botol,"133.777,20","0,05%","80,31%",Pareto B,"-1,16","20.200,00"
+301,TEMP1,TEMPRA SYR 60 ML,Demam,Paracetamol,Pediatric,14,14,Botol,"716.644,86","0,25%","31,52%",Pareto A,"-15,45","38.600,00"
+302,0000458,Tera F Tab/Strip,BD - Flu - Demam,Paracetamol - Phenylpropanolamine HCl - Chlorpheniramine Maleat - Guaifenesin,Adult,17,23,Strip,"129.505,92","0,05%","80,68%",Pareto B,"10,26","3.900,00"
+303,TERMOM6,Termometer Digital Alpha 1,Demam,,General,4,4,PC,"105.450,00","0,04%","84,54%",Pareto B,"-2,13","18.182,00"
+304,T000000000058,Termometer Digital Alpha 3 Lentur,Demam,,General,6,6,PC,"184.943,76","0,07%","71,44%",Pareto B,"-1,19","20.000,00"
+305,T000000000051,Termometer Digital OMRON MC 246,Demam,,General,3,3,PC,"217.043,85","0,08%","67,51%",Pareto A,"-2,10","54.594,60"
+306,T000000000049,Termometer Gun IR Yuwell,Demam,,General,1,1,PC,"298.312,50","0,11%","58,88%",Pareto A,"-1,03","172.973,00"
+307,TERMO 1,Termometer Ruang,Demam,,General,0,0,PC,"0,00","0,00%","0,00%",Dibawah Pareto C,"-1,00","72.728,00"
+308,TERMOR3,TERMOREX PLUS 30 ml,BD - Flu - Demam,Paracetamol - Pseudoephedrine HCl -  Chlorpheniramine Maleat - Guaifenesin,Pediatric,1,1,Botol,"10.437,33","0,00%","99,83%",Pareto C,"-2,03","8.300,00"
+309,TERMOR1,TERMOREX PLUS 60 ml,BD - Flu - Demam,Paracetamol - Pseudoephedrine HCl -  Chlorpheniramine Maleat - Guaifenesin,Pediatric,2,2,Botol,"33.801,72","0,01%","97,33%",Pareto C,"-0,06","12.760,00"
+310,TERMX,Termorex Syr 30  ml,Demam,Paracetamol,Pediatric,2,2,Botol,"19.669,20","0,01%","99,05%",Pareto C,"-1,06","7.450,00"
+311,TERMOR2,Termorex Syr 60 ml,Demam,Paracetamol,Pediatric,2,2,Botol,"30.700,38","0,01%","97,73%",Pareto C,"-1,06","11.610,00"
+312,TREM1,Tremenza Syr,Flu,Pseudoephedrine HCl - Triprolidine HCl,Pediatric,15,15,Botol,"417.610,86","0,15%","48,95%",Pareto A,"5,52","21.000,00"
+313,TREM,Tremenza Tab,Flu,Pseudoephedrine HCl - Triprolidine HCl,General,7,70,Tablet,"162.670,50","0,06%","75,34%",Pareto B,"-338,26","1.500,00"
+314,TRM1,Triaminic Batuk Pilek 60 ml,BK - Flu,Pseudoephedrine HCl - Dextromethorphan HBr,General,3,3,Botol,"250.332,75","0,09%","63,88%",Pareto A,"-5,10","63.000,00"
+315,TRM3,Triaminic Exp 60 ml,BD - Flu,Pseudoephedrine HCl - Guaifenesin,General,25,30,Botol,"2.501.786,32","0,89%","4,25%",Pareto A,"19,03","62.946,00"
+316,TRIFE,Trifed Syr,Flu,Pseudoephedrine HCl - Triprolidine HCl,General,1,1,Botol,"45.297,99","0,02%","95,70%",Pareto C,"-1,03","34.200,00"
+317,Trifed,Trifed Tab,Flu,Pseudoephedrine HCl - Triprolidine HCl,Adult,2,11,Tablet,"45.640,98","0,02%","95,67%",Pareto C,"-17,35","2.850,00"
+318,TUZAL,Tuzalos Strip,BK - Flu - Demam,Paracetamol - Phenylpropanolamine HCl - Chlorpheniramine Maleat - Dextromethorphan HBr,General,11,26,Strip,"139.513,68","0,05%","79,09%",Pareto B,"-31,84","3.992,00"
+319,0000273,Ultraflu Extra,BD - Flu - Demam,Paracetamol - Phenylpropanolamine HCl - Chlorpheniramine Maleat - Dextromethorphan HBr - Guaifenesin,General,9,12,Strip,"42.228,84","0,02%","96,24%",Pareto C,"-3,39","2.607,88"
+320,ULTRF,Ultraflu PE Strip,Demam - Flu,Paracetamol - Phenylpropanolamine HCl - Chlorpheniramine Maleat,General,32,58,Strip,"212.014,44","0,08%","68,20%",Pareto A,"7,13","2.989,20"
+321,VICE4,VICEE GRAPE/BANDED 2S,Vitamin,Ascorbic Acid (Vitamin C),General,12,17,BANDED,"52.940,34","0,02%","94,40%",Pareto C,"1,45","2.339,56"
+322,VICEL,VICEE LEMON/BANDED 2S,Vitamin,Ascorbic Acid (Vitamin C),General,12,16,BANDED,"50.307,42","0,02%","94,90%",Pareto C,"-34,52","2.515,60"
+323,VICEE S,VICEE STRAWBERRY/BANDED 2S,Vitamin,Ascorbic Acid (Vitamin C),General,13,23,BANDED,"71.657,16","0,03%","91,06%",Pareto C,"4,26","2.339,56"
+324,VIC4,Vicks F44 27 Dws,BK - Flu,Dextromethorphan HBr - Doxylamine succinate,Adult,11,11,Botol,"109.426,02","0,04%","83,62%",Pareto B,"-1,35","7.460,00"
+325,VIC5,Vicks F44 54 Dws,BK - Flu,Dextromethorphan HBr - Doxylamine succinate,Adult,21,21,Botol,"394.919,13","0,14%","50,68%",Pareto A,"14,32","14.136,00"
+326,VIC1,Vicks F44 Anak 27 ml,BD - BK,Dextromethorphan HBr - Guaifenesin,Pediatric,7,7,Botol,"76.510,08","0,03%","90,16%",Pareto B,"-3,23","8.236,00"
+327,VIC2,Vicks F44 Anak 54 ml,BD - BK,Dextromethorphan HBr - Guaifenesin,Pediatric,11,11,Botol,"226.993,89","0,08%","66,25%",Pareto A,"-3,35","15.553,00"
+328,0000930,Vicks F44 Dws 100 ml,BK - Flu,Dextromethorphan HBr - Doxylamine succinate,Adult,11,11,Botol,"320.276,07","0,11%","56,38%",Pareto A,"-2,35","21.962,00"
+329,VICKIN,Vicks Inhaler,Flu,Menthol - Camphor,General,38,42,PC,"765.098,58","0,27%","28,90%",Pareto A,"17,65","13.722,00"
+330,VICK1,Vicks Vaporub 10g,Flu,Menthol - Camphor - Eucalyptus Oil,General,26,27,Tube,"223.082,25","0,08%","66,81%",Pareto A,"-3,87","6.201,00"
+331,VICK3,Vicks Vaporub 25g,Flu,Menthol - Camphor - Eucalyptus Oil,General,11,11,Tube,"221.331,78","0,08%","67,28%",Pareto A,"2,65","15.177,00"
+332,VICK2,Vicks Vaporub 50g,Flu,Menthol - Camphor - Eucalyptus Oil,General,12,13,Tube,"449.389,05","0,16%","47,13%",Pareto A,"9,58","26.059,00"
+333,IPA,VIT A IPI,Vitamin,Retinol (Vitamin A),General,4,4,DOS,"22.759,44","0,01%","98,70%",Pareto C,"-3,13","4.295,50"
+334,VIT B12,Vit B 12 IPI,Vitamin,Cyanocobalamin (Vitamin B12),General,4,5,POT,"28.837,80","0,01%","98,05%",Pareto C,"-3,16","4.294,60"
+335,VIT B C,Vit B Complek IPI,Vitamin,Thiamine (Vitamin B1) - Riboflavine (Vitamin B2) - Niacine (Vitamin B3) - Panthothenic acid (Vitamin B5) - Pyridoxine (Vitamin B6) - Biotin (Vitamin B7) - Folic Acid (Vitamin B9) - Cyanocobalamin (Vitamin B12),General,7,7,Botol,"48.252,81","0,02%","95,25%",Pareto C,"-4,23","5.198,00"
+336,VBC,Vit B Compleks,Vitamin,Thiamine (Vitamin B1) - Riboflavine (Vitamin B2) - Niacine (Vitamin B3) - Panthothenic acid (Vitamin B5) - Pyridoxine (Vitamin B6) - Biotin (Vitamin B7) - Folic Acid (Vitamin B9) - Cyanocobalamin (Vitamin B12),General,2,30,Tablet,"4.983,90","0,00%","99,98%",Pareto C,"-43,97","115,00"
+337,VB1-3,Vit B1 50 mg KF,Vitamin,Thiamine (Vitamin B1),General,1,40,Tablet,"17.382,60","0,01%","99,30%",Pareto C,"-71,29","333,50"
+338,VIT B1,Vit B1 IPI,Vitamin,Thiamine (Vitamin B1),General,2,2,Botol,"11.812,62","0,00%","99,77%",Pareto C,"-0,06","4.500,00"
+339,VIT C,Vit C IPI,Vitamin,Ascorbic Acid (Vitamin C),General,34,43,Botol,"277.819,68","0,10%","60,91%",Pareto A,"-1,39","4.850,50"
+340,OBT2202190003,Vit D ipi 1000 IU,Vitamin,Calciferol (Vitamin D),General,5,5,Botol,"54.029,25","0,02%","94,25%",Pareto C,"0,84","8.183,45"
+341,VITAC3,VITACIMIN BLUEBERRY/BANDED 2S,Vitamin,Ascorbic Acid (Vitamin C),General,8,8,BANDED,"31.441,86","0,01%","97,59%",Pareto C,"-4,26","2.948,00"
+342,VITAC1,VITACIMIN LEMON/BANDED 2S,Vitamin,Ascorbic Acid (Vitamin C),General,46,56,BANDED,"215.600,85","0,08%","67,59%",Pareto A,"-38,81","2.948,00"
+343,vitlong,Vitalong C Strip 4s,Vitamin,Ascorbic Acid (Vitamin C),Adult,2,3,Strip,"19.869,00","0,01%","99,02%",Pareto C,"-12,10","5.000,00"
+344,vitlon1,Vitalong C/Botol 30s,Vitamin,Ascorbic Acid (Vitamin C),Adult,1,1,Botol,"46.358,04","0,02%","95,50%",Pareto C,"-3,03","35.000,00"
+345,V000000000021,Vitalong C+Zink/Botol 30s,Vitamin,Ascorbic Acid (Vitamin C) - Zinc,Adult,2,2,Botol,"113.908,20","0,04%","82,63%",Pareto B,"-0,06","43.000,00"
+346,V000000000022,Vitalong C+Zink/Strip 4s,Vitamin,Ascorbic Acid (Vitamin C) - Zinc,Adult,5,17,Strip,"139.600,26","0,05%","79,04%",Pareto B,"-12,55","6.200,04"
+347,V000000000013,Vitamin B6 10mg/Strip,Vitamin,Pyridoxine (Vitamin B6),General,1,2,Strip,"4.371,18","0,00%","99,99%",Pareto C,"-12,56","1.650,00"
+348,WOOD2,Woods Antitusif 100 ml,BK,Dextromethorphan HBr - Diphenhydramine HCl,Adult,12,12,Botol,"408.222,48","0,15%","49,82%",Pareto A,"1,61","25.676,00"
+349,WOOD1,Woods Antitusif 60 ml,BK,Dextromethorphan HBr - Diphenhydramine HCl,Adult,12,12,Botol,"257.853,00","0,09%","62,98%",Pareto A,"-4,39","16.216,00"
+350,WOOD4,Woods Exp 100 ml,BD,Bromhexine HCl - Guaifenesin,Adult,19,19,Botol,"649.496,52","0,23%","33,68%",Pareto A,"2,39","25.676,00"
+351,WOOD3,Woods Exp 60 ml,BD,Bromhexine HCl - Guaifenesin,Adult,9,9,Botol,"184.235,58","0,07%","71,63%",Pareto B,"-11,29","16.216,07"
+352,XONC,Xonce Banded 2s,Vitamin,Ascorbic Acid (Vitamin C),Adult,19,33,BANDED,"115.705,29","0,04%","82,51%",Pareto B,"7,94","2.702,72"
+353,C L,You C 1000 Lemon 140 ml,Vitamin,Ascorbic Acid (Vitamin C),Adult,13,18,Botol,"167.114,94","0,06%","74,76%",Pareto B,"-2,58","7.000,00"
+354,OBT2207200001,You C-1000 Mango 140 ml,Vitamin,Ascorbic Acid (Vitamin C),Adult,10,12,Botol,"84.240,12","0,03%","88,25%",Pareto B,"1,61","6.500,00"
+355,youc,You C-1000 Orange 140 ml,Vitamin,Ascorbic Acid (Vitamin C),Adult,24,42,Botol,"390.181,65","0,14%","51,10%",Pareto A,"-0,35","6.500,00"
+356,Y000000000004,You Vit Gummy ANAK,Vitamin,Retinol (Vitamin A) -  Niacine (Vitamin B3) - Panthothenic acid (Vitamin B5) - Pyridoxine (Vitamin B6) - Biotin (Vitamin B7) - Folic Acid (Vitamin B9) - Cobalamin (Vitamin B12) - Ascorbic Acid (Vitamin C) - Calciferol (Vitamin D) - Tokoferol (Vitamin E) - Celenium - Iodium,Pediatric,9,12,SACHET,"213.768,24","0,08%","67,97%",Pareto A,"0,61","13.446,00"
+357,Y000000000005,You Vit Gummy DEWASA,Vitamin,Retinol (Vitamin A) -  Niacine (Vitamin B3) - Panthothenic acid (Vitamin B5) - Pyridoxine (Vitamin B6) - Biotin (Vitamin B7) - Folic Acid (Vitamin B9) - Cobalamin (Vitamin B12) - Ascorbic Acid (Vitamin C) - Calciferol (Vitamin D) - Tokoferol (Vitamin E) - Celenium - Iodium,Adult,2,5,SACHET,"89.044,20","0,03%","87,35%",Pareto B,"-3,16","13.568,17"
+358,Z000000000001,Zamel Drops,Vitamin,Retinol (Vitamin A) - Thiamine (Vitamin B1) -  Riboflavine (Vitamin B2) - Niacine (Vitamin B3) - Panthothenic acid (Vitamin B5) - Biotin (Vitamin B7) - Ascorbic Acid (Vitamin C) - Cholecalciferol (Vitamin D3) - Tokoferol (Vitamin E) - Zinc,Pediatric,3,3,Botol,"156.952,89","0,06%","76,14%",Pareto B,"-1,10","39.500,00"
+359,0000655,Zamel Syrup,Vitamin,Retinol (Vitamin A) - Riboflavine (Vitamin B2) - Niacine (Vitamin B3) - Panthothenic acid (Vitamin B5) - Pyridoxine (Vitamin B6) - Biotin (Vitamin B7) - Folic Acid (Vitamin B9) - Cobalamin (Vitamin B12) - Ascorbic Acid (Vitamin C) - Calciferol (Vitamin D) - Tokoferol (Vitamin E) - Ferrum - Copper - Zinc - Magnesium - Celenium - Chromium - Lysine - L-glutamine - Choline - Inositol,Pediatric,1,1,Botol,"49.669,17","0,02%","95,06%",Pareto C,"-1,03","37.500,00"
+360,RHINOS,Rhinos SR ,Flu,Loratadine - Pseudoephedrine HCl,Adult,7,76,KAPSUL,"646.113,24","0,23%","34,14%",Pareto A,"73,55","6.450,00"
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,

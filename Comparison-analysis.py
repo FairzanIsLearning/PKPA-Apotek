@@ -5,7 +5,7 @@ import numpy as py
 import pandas as pd
 
 # next, we import the csv file
-sell_sep = pd.read_csv("Selling-Sep-22.csv")
+sell_sep = pd.read_csv("Training-aug.csv")
 
 
 #%%
