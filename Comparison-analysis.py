@@ -20,6 +20,16 @@ aug_process = aug_process.set_index(index_indication)
 aug_process = aug_process.sort_index()
 aug_process.head()
 
+#%%
+# categorize meds indication
+population = [General, Pediatric, Geriatric, Adult]
+Num = []
+for aug_process['Populasi'] in population:
+    counter = 0
+    for i in idx:
+        i + population = cat:
+        counter +=1
+    num.append(counter)
 
 #%%
 # visualize selling times vs indication
